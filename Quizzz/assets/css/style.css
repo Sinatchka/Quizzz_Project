@@ -1,0 +1,60 @@
+.quiz-main-container {
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    
+}
+
+.heading {
+    line-height: 80px;
+    text-align: center;
+}
+
+.options-container{
+margin-top: 20px;
+}
+.quizz-submit-btn {
+    margin-left: 20px;
+}
+.next-question-button{
+    float: center;
+    margin-top: 20px;
+}
+
+.form {
+    margin-bottom: 50px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+}
+
+.username-label {
+    margin-right: 20px;
+}
+
+.hidden{
+    display: none;
+}
+.visible{
+    display: block;
+}
+#error{
+margin-top: 5px;
+margin-bottom: -10px;
+}
+.result-div{
+    text-align: center;
+    margin-bottom:30px;
+}
+
+.highscores-reset-btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.highscore-table-form{
+    margin-right: 20px;
+}
